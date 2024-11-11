@@ -28,7 +28,7 @@ O **BetCadufe-soccer** é um projeto focado na coleta, transformação e visuali
 3. Configure as credenciais do Google Cloud e da API Sports no código Python.
    pip install -r requirements.txt
 
-## Criação de Views no Google Cloud\
+## Criação de Views no Google Cloud
 As seguintes views foram criadas no Google Cloud para facilitar a consulta e carregar os dados no Power BI:
 
 ### 1. **vw_estadios**
