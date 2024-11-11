@@ -30,6 +30,7 @@ O **BetCadufe-soccer** é um projeto focado na coleta, transformação e visuali
 
 ## Executando o Código
 - Python: Execute o script para coletar dados e armazená-los no Google BigQuery. (python champions.ipynb)
+- Google Cloud: Crie as views no Google BigQuery para facilitar a consulta e o carregamento dos dados.
 - Power BI: Conecte-se ao Google BigQuery e carregue as views configuradas para visualizar os dados no dashboard.
 
 ## Visualização no Power BI
